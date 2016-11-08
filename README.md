@@ -1,2 +1,2 @@
 # hello-world
-ideas
+I am trying hard to learn to code these days.
